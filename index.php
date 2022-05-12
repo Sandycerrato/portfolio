@@ -314,7 +314,7 @@
               <img src="assets/img/pagedecouvmodeprojet.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/pagedecouvmodeprojet.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="assets/img/travail en mode projet.pdf"  target="_blank"   ><i class="bx bx-link"></i></a></a>             
+                <a href="assets/img/travail_en_mode_projet.pdf"  target="_blank"><i class="bx bx-link"></i></a></a>             
               </div>
             </div>
           </div>
