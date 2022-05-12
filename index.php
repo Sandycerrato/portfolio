@@ -329,6 +329,16 @@
             </div>
           </div>
 
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/pagedecouvmodeprojet.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <img source ="assets/img/pagedecouvmodeprojet.png">
+                <a href="assets/img/travail_en_mode_projet.pdf"  target="_blank"><i class="bx bx-link"></i></a>           
+              </div>
+            </div>
+          </div>
+
 
 
         </div>
