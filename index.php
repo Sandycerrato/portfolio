@@ -272,7 +272,6 @@
             <div class="portfolio-wrap">
               <img src="assets/img/nas.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <img source ="assets/img/nas.png">
                 <a href="assets/img/E4 NASok.pdf"  target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -282,7 +281,6 @@
             <div class="portfolio-wrap">
               <img src="assets/img/pagedecouvdevpresenceenligne.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <img source ="assets/img/pagedecouvdevpresenceenligne.png">
                 <a href="assets/img/devellopper_entreprise_en_ligne.pdf"  target="_blank"><i class="bx bx-link"></i></a>              
               </div>
             </div>
@@ -292,7 +290,6 @@
             <div class="portfolio-wrap">
               <img src="assets/img/pagedecouvmdpwindows.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <img source ="assets/img/pagedecouvmdpwindows.png">
                 <a href="assets/img/recuperation_mdp_windows.pdf"  target="_blank"><i class="bx bx-link"></i></a>             
               </div>
             </div>
@@ -302,7 +299,6 @@
             <div class="portfolio-wrap">
               <img src="assets/img/pagecouvsshubunutu.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <img source ="assets/img/pagecouvsshubunutu.png">
                 <a href="assets/img/activation_ssh_sous_ubuntu.pdf"  target="_blank"><i class="bx bx-link"></i></a>              
               </div>
             </div>
@@ -312,7 +308,6 @@
             <div class="portfolio-wrap">
               <img src="assets/img/Pagedecouvmodeprojet.png" class="img-fluid">
               <div class="portfolio-links">
-                <img source ="assets/img/Pagedecouvmodeprojet.png">
                 <a href="assets/img/travail_en_mode_projet.pdf" target="_blank"><i class="bx bx-link"></i></a>           
               </div>
             </div>
@@ -320,9 +315,8 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/pagedecouvAD.png" class="img-fluid">
+              <img src="assets/img/PagedecouvAD.png" class="img-fluid">
               <div class="portfolio-links">
-                <img source ="assets/img/PagedecouvAD.png">
                 <a href="assets/img/Activedirectory.pdf" target="_blank"><i class="bx bx-link"></i></a>             
               </div>
             </div>
@@ -332,7 +326,6 @@
             <div class="portfolio-wrap">
               <img src="assets/img/pagedecouvPortail.png" class="img-fluid">
               <div class="portfolio-links">
-                <img source ="assets/img/pagedecouvPortail.png">
                 <a href="assets/img/Portailcaptif.pdf" target="_blank"><i class="bx bx-link"></i></a>             
               </div>
             </div>
@@ -343,7 +336,6 @@
             <div class="portfolio-wrap">
               <img src="assets/img/pagedecouvprotocolessh.png" class="img-fluid">
               <div class="portfolio-links">
-                <img source ="assets/img/pagedecouvprotocolessh.png">
                 <a href="assets/img/activation ssh-telnet-converti.pdf" target="_blank"><i class="bx bx-link"></i></a>             
               </div>
             </div>
@@ -353,7 +345,6 @@
             <div class="portfolio-wrap">
               <img src="assets/img/pagecouvvlan.png" class="img-fluid">
               <div class="portfolio-links">
-                <img source ="assets/img/pagecouvvlan.png">
                 <a href="assets/img/DHCPVlansousUbuntu.pdf" target="_blank"><i class="bx bx-link"></i></a>             
               </div>
             </div>
