@@ -330,15 +330,6 @@
           </div>
 
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/pagedecouvprotocolessh.png" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <img source ="assets/img/pagedecouvprotocolessh.png">
-                <a href="assets/img/activation ssh-telnet-converti.pdf"  target="_blank"><i class="bx bx-link"></i></a>             
-              </div>
-            </div>
-          </div>
 
         </div>
 
