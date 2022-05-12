@@ -270,7 +270,7 @@
               <img src="assets/img/access-list.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/access-list.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="assets/img/acees-listok.pdf"  target="_blank" tabindex="-1"  ><i class="bx bx-link"></i></a></a>
+                <a href="assets/img/acees-listok.pdf"  target="_blank"   ><i class="bx bx-link"></i></a></a>
               </div>
             </div>
           </div>
@@ -280,7 +280,7 @@
               <img src="assets/img/nas.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/nas.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="assets/img/E4 NASok.pdf"  target="_blank" tabindex="-1"  ><i class="bx bx-link"></i></a></a>
+                <a href="assets/img/E4 NASok.pdf"  target="_blank"   ><i class="bx bx-link"></i></a></a>
               </div>
             </div>
           </div>
@@ -290,7 +290,7 @@
               <img src="assets/img/pagedecouvdevpresenceenligne.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/pagedecouvdevpresenceenligne.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="assets/img/devellopper_entreprise_en_ligne.pdf"  target="_blank" tabindex="-1"  ><i class="bx bx-link"></i></a></a>              </div>
+                <a href="assets/img/devellopper_entreprise_en_ligne.pdf"  target="_blank"   ><i class="bx bx-link"></i></a></a>              </div>
             </div>
 
           </div>
@@ -299,7 +299,7 @@
               <img src="assets/img/pagedecouvmdpwindows.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/pagedecouvmdpwindows.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="assets/img/recuperation_mdp_windows.pdf"  target="_blank" tabindex="-1"  ><i class="bx bx-link"></i></a></a>              </div>
+                <a href="assets/img/recuperation_mdp_windows.pdf"  target="_blank"   ><i class="bx bx-link"></i></a></a>              </div>
             </div>
           </div>
 
@@ -308,7 +308,7 @@
               <img src="assets/img/pagecouvsshubunutu.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/pagecouvsshubunutu.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="assets/img/activation_ssh_sous_ubuntu.pdf"  target="_blank" tabindex="-1"  ><i class="bx bx-link"></i></a></a>              </div>
+                <a href="assets/img/activation_ssh_sous_ubuntu.pdf"  target="_blank"   ><i class="bx bx-link"></i></a></a>              </div>
             </div>
           </div>
 
@@ -319,7 +319,7 @@
               <img src="assets/img/pagedecouvmodeprojet.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/pagedecouvmodeprojet.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="assets/img/travail en mode projet.pdf"  target="_blank" tabindex="-1"  ><i class="bx bx-link"></i></a></a>              </div>
+                <a href="assets/img/travail en mode projet.pdf"  target="_blank"   ><i class="bx bx-link"></i></a></a>              </div>
             </div>
           </div>
 
@@ -329,7 +329,7 @@
               <img src="assets/img/pagecouvvlan.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/pagecouvvlan.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="assets/img/DHCPVlansousUbuntu.pdf"  target="_blank" tabindex="-1"  ><i class="bx bx-link"></i></a></a>              </div>
+                <a href="assets/img/DHCPVlansousUbuntu.pdf"  target="_blank"   ><i class="bx bx-link"></i></a></a>              </div>
             </div>
           </div>
           
@@ -340,7 +340,7 @@
               <img src="assets/img/pagedecouvAD.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/pagedecouvAD.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="assets/img/Activedirectory.pdf"  target="_blank" tabindex="-1"  ><i class="bx bx-link"></i></a></a>              </div>
+                <a href="assets/img/Activedirectory.pdf"  target="_blank"   ><i class="bx bx-link"></i></a></a>              </div>
             </div>
           </div>
           
@@ -352,7 +352,7 @@
               <img src="assets/img/pagedecouvPortail.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/pagedecouvPortail.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="assets/img/Portailcaptif.pdf"  target="_blank" tabindex="-1"  ><i class="bx bx-link"></i></a></a>              </div>
+                <a href="assets/img/Portailcaptif.pdf"  target="_blank"   ><i class="bx bx-link"></i></a></a>              </div>
             </div>
           </div>
 
@@ -363,7 +363,7 @@
               <img src="assets/img/pagedecouvprotocolessh.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/pagedecouvprotocolessh.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="assets/img/activation ssh-telnet-converti.pdf"  target="_blank" tabindex="-1"  ><i class="bx bx-link"></i></a></a>              </div>
+                <a href="assets/img/activation ssh-telnet-converti.pdf"  target="_blank"   ><i class="bx bx-link"></i></a></a>              </div>
             </div>
           </div>
         </div>
