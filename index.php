@@ -309,36 +309,32 @@
             </div>
           </div>
 
-        </div>
-
-        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
-
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/pagedecouvmodeprojet.png" class="img-fluid" alt="">
+              <img src="assets/img/pagedecouvmodeprojet.png" class="img-fluid">
               <div class="portfolio-links">
-                <img source ="assets/img/pagedecouvmodeprojet.png">
-                <a href="assets/img/travail_en_mode_projet.pdf"  target="_blank"><i class="bx bx-link"></i></a>           
+                <img source ="assets/img/Pagedecouvmodeprojet.png">
+                <a href="assets/img/travail_en_mode_projet.pdf" target="_blank"><i class="bx bx-link"></i></a>           
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/pagedecouvAD.png" class="img-fluid" alt="">
+              <img src="assets/img/pagedecouvAD.png" class="img-fluid">
               <div class="portfolio-links">
-                <img source ="assets/img/pagedecouvAD.png">
-                <a href="assets/img/Activedirectory.pdf"  target="_blank"><i class="bx bx-link"></i></a>             
+                <img source ="assets/img/PagedecouvAD.png">
+                <a href="assets/img/Activedirectory.pdf" target="_blank"><i class="bx bx-link"></i></a>             
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/pagedecouvPortail.png" class="img-fluid" alt="">
+              <img src="assets/img/pagedecouvPortail.png" class="img-fluid">
               <div class="portfolio-links">
                 <img source ="assets/img/pagedecouvPortail.png">
-                <a href="assets/img/Portailcaptif.pdf"  target="_blank"><i class="bx bx-link"></i></a>             
+                <a href="assets/img/Portailcaptif.pdf" target="_blank"><i class="bx bx-link"></i></a>             
               </div>
             </div>
           </div>
@@ -346,20 +342,20 @@
           
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/pagedecouvprotocolessh.png" class="img-fluid" alt="">
+              <img src="assets/img/pagedecouvprotocolessh.png" class="img-fluid">
               <div class="portfolio-links">
                 <img source ="assets/img/pagedecouvprotocolessh.png">
-                <a href="assets/img/activation ssh-telnet-converti.pdf"  target="_blank"><i class="bx bx-link"></i></a>             
+                <a href="assets/img/activation ssh-telnet-converti.pdf" target="_blank"><i class="bx bx-link"></i></a>             
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/pagecouvvlan.png" class="img-fluid" alt="">
+              <img src="assets/img/pagecouvvlan.png" class="img-fluid">
               <div class="portfolio-links">
                 <img source ="assets/img/pagecouvvlan.png">
-                <a href="assets/img/DHCPVlansousUbuntu.pdf"  target="_blank"><i class="bx bx-link"></i></a>             
+                <a href="assets/img/DHCPVlansousUbuntu.pdf" target="_blank"><i class="bx bx-link"></i></a>             
               </div>
             </div>
           </div>
