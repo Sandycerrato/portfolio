@@ -270,7 +270,7 @@
               <img src="assets/img/access-list.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/access-list.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="assets/img/aclE4.pdf"  target="_blank" tabindex="-1"  ><i class="bx bx-link"></i></a></a>
+                <a href="assets/img/acees-listok.pdf"  target="_blank" tabindex="-1"  ><i class="bx bx-link"></i></a></a>
               </div>
             </div>
           </div>
@@ -280,7 +280,7 @@
               <img src="assets/img/nas.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/nas.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="assets/img/E4_NAS.pdf"  target="_blank" tabindex="-1"  ><i class="bx bx-link"></i></a></a>
+                <a href="assets/img/E4 NASok.pdf"  target="_blank" tabindex="-1"  ><i class="bx bx-link"></i></a></a>
               </div>
             </div>
           </div>
@@ -312,6 +312,16 @@
             </div>
           </div>
 
+
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/pagedecouvmodeprojet.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/pagedecouvmodeprojet.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/travail en mode projet.pdf"  target="_blank" tabindex="-1"  ><i class="bx bx-link"></i></a></a>              </div>
+            </div>
+          </div>
 
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
@@ -412,7 +422,7 @@
               </p>
             </div>
           </div>
-          <a href="assets/img/TS3.pdf" class="btn btn-primary btn-sm" target="_blank" tabindex="-1" role="button" aria-disabled="true"> Acceder au tableau de synthèse </a>
+          <a href="assets/img/tableausynthèse1.pdf" class="btn btn-primary btn-sm" target="_blank" tabindex="-1" role="button" aria-disabled="true"> Acceder au tableau de synthèse </a>
         </div>
       </div>
     </section><!-- End Entreprise -->
